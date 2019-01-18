@@ -17,7 +17,7 @@
         <!-- The API key for Google Maps-based APIs. -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAOZVWsq1wK6Uxc8nMVFBBN5QFQnwAtyaE" />
+            android:value="" />
 
         <activity
             android:screenOrientation="portrait"
